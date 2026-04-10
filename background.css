@@ -1,0 +1,15 @@
+
+body{
+    background-color: linear-gradient(rgb(10, 168, 231), rgb(5, 73, 5));  
+    background-repeat: no-repeat;
+    background-image:"Whatsapp Image 2024-06-17 at 12.11.44 PM.jpeg";
+}
+
+p{
+    background-color: white;
+    color: black;   
+}
+
+h1{
+    color: rgb(202, 19, 19);   
+}
